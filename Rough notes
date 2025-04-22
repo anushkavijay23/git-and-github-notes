@@ -1,0 +1,10 @@
+Git and Github is version control system.
+It address the problem of sharing codes created by differnet devlopers for common project.
+Next problem it addresses is of versioning like if one wants to go back to 50 days back code piece.
+Git is a distributed version control system.It is a opensource thing.
+What is fork?->It is a copy of original source.
+Everything in git is tracked as objects.
+Using hooks we can prevent mistakes like that of api token.
+Git status->tells about current repositry status.It checks if there is an untracked file in it or not.
+git add with file name tracks the file.
+git diff->tells what exact changes have been maded
