@@ -8,3 +8,6 @@ Using *hooks*, we can prevent mistakes like exposing API tokens or sensitive dat
 *Git status* shows the current state of the repository, including any untracked or modified files.
 *Git add <filename>* tracks a specific file or files, preparing them for commit.
 *Git diff* shows exactly what changes have been made to the code (line-by-line changes).
+How to create or initialize a git repositry? ->Using git init command.
+So when i create a directory as name myproject and in that directory i run git init command.What will happen is it will create a hidden directory called as .git/.
+This folder contains all the internal data Git needs to manage versions of your project.
